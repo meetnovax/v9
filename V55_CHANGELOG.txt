@@ -1,0 +1,22 @@
+NovaX V55 — Builder Vocabulary + Results/Hub Refinement Batch
+
+Locked content updates:
+- Updated the 15 Builder Strength™ display labels while preserving the underlying archetype/scoring structure:
+  Visionary: Vision / Opportunity / Ambition
+  Hustler: Execution / Ownership / Momentum
+  Creator: Create / Solve / Build
+  Network: Relationships / Connection / Collaboration
+  Future: Curiosity / Potential / Discovery
+- Updated Results strength-marker mapping to the new display labels while retaining the existing V53 marker artwork files.
+- Added the locked Top Strengths interpretation copy for all five Builder Archetypes™.
+- Replaced Builder Card supporting copy with: “Share & Show the world what kind of Builder you are.”
+- Shortened Builder Card share button to SHARE CARD.
+- Removed the redundant Builder Profile descriptive sentence.
+- Corrected Builder Card quote containment/typography for mobile and desktop.
+- Kept the approved Builder Card background: assets/Approved_Builder_Card_Background.png
+- Hub now defaults to Dark when no explicit theme preference has been saved; explicit Light/Dark selections remain respected.
+- Reduced Hub hero headline size another step.
+- Replaced Hub intro copy with: “Know your path. Make your next move.”
+- Shortened Hub Next Move buttons to View Results / Share Card / View Map, with no arrows.
+
+No Quiz scoring, invite logic, path thresholds, or core journey state behavior intentionally changed.
